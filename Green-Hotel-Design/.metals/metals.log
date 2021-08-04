@@ -1,0 +1,8 @@
+[0m2021.08.03 20:56:21 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\George\Desktop\Coding\Templates\greenHotel' for client Visual Studio Code 1.58.2.[0m
+[0m2021.08.03 20:56:29 INFO  time: initialize in 7.7s[0m
+[0m2021.08.03 20:56:45 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.03 20:56:45 WARN  no build tool detected in workspace 'C:\Users\George\Desktop\Coding\Templates\greenHotel'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.04 09:26:20 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\George\Desktop\Coding\Templates\greenHotel' for client Visual Studio Code 1.58.2.[0m
+[0m2021.08.04 09:26:52 INFO  time: initialize in 34s[0m
+[0m2021.08.04 09:27:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.04 09:27:54 WARN  no build tool detected in workspace 'C:\Users\George\Desktop\Coding\Templates\greenHotel'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
